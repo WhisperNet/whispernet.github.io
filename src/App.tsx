@@ -557,7 +557,7 @@ function MainContent() {
         </div>
       )}
 
-      <main className="max-w-2xl mx-auto space-y-8 p-6 md:p-12 py-24">
+      <main className="max-w-3xl mx-auto space-y-8 p-6 md:p-12 py-24">
         {/* Intro */}
         <section className="animate-fade-in">
           <div className="mb-12 flex flex-col md:flex-row items-center md:items-start gap-6">
@@ -721,7 +721,7 @@ function MainContent() {
           </h2>
           <div>
             <p className="text-black dark:text-white font-light leading-relaxed tracking-wide mb-5">
-              I’m Ridowan Sikder — a Computer Science and Engineering
+              I’m Mohammad Ridowan Sikder — a Computer Science and Engineering
               undergraduate at Shahjalal University of Science and Technology
               (2022–present), based in Bangladesh. My work and learning revolve
               around DevSecOps, backend engineering, and MLOps, where I focus on
